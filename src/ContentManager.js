@@ -1,5 +1,5 @@
 import React from "react"
-import util from "quick-n-dirty-utils"
+import { util } from "quick-n-dirty-utils"
 import { mixins, NotificationBar, Popup } from "quick-n-dirty-react"
 import ContentEditor from "./ContentEditor"
 import ContentHandler from "./ContentHandler"
